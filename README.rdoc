@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an early project from a Ruby on Rails class held by Starter League at 1871 in the Merchandise Mart, Chicago. It is meant to demonstrate CREATE, READ, EDIT, and DESTROY functionality on a MySQL database.
 
-Things you may want to cover:
+To run this example:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+1. Open a Rails server
+2. Route to /users
+3. The program allows simple CREATE, READ, EDIT, and DESTROY of a username and email address.
